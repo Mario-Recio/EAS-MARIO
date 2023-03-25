@@ -4,8 +4,8 @@
    	<sonar.organization>mariodev2</sonar.organization>
     	<sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
-  <groupId>kms-api-examples</groupId>
-  <artifactId>kms-api-examples</artifactId>
+  <groupId>EAS-MARIO</groupId>
+  <artifactId>EAS-MARIO</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <dependencies>
 		<dependency>
