@@ -1,6 +1,5 @@
 package raf.agentes;
 
-import java.io.Serializable;
 import java.lang.InterruptedException;
 import java.util.Enumeration;
 import java.util.Vector;
