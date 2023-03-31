@@ -6,7 +6,7 @@ import java.lang.InterruptedException;
 /**
  * The HelloAgents just prints Hello World to the screen.
  */
-public class HelloAgent{
+public class HelloAgent{ //Mario: clase sin uso aparente
     /**
      * How often did the agent travel?
      */

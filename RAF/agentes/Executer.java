@@ -11,7 +11,7 @@ import java.lang.Runtime;
  * -soff option which disables the security manager:
  * java org.kaariboga.server.Boga -soff
  */
-public class Executer{
+public class Executer{ //Mario: clase sin uso aparente
     /**
      * Runtime object of the current JVM.
      * Declared as an object varible to demonstrate the use of transient.
@@ -28,7 +28,7 @@ public class Executer{
      * For security reasons it is hard coded as the windows
      * paintbrush program.
      */
-    public Executer (String name){
+    public Executer (String name){ //Mario: método sin uso aparente
         //super("Executer_" + name);
         this.command = "pbrush";
     }

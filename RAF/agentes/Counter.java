@@ -9,7 +9,7 @@ import java.lang.Thread;
  * Demonstrates the handling of time consuming applications by
  * couning up to a given number.
  */
-public class Counter{
+public class Counter{ //Mario: clase sin uso aparente
     /**
      * Used to end the thread.
      */
@@ -25,7 +25,7 @@ public class Counter{
      */
     public Counter (String name){
         super();
-    }
+    } //Mario: método sin uso aparente
 
     /**
      * The run method just counts and ends when the thread is set to null.
@@ -49,7 +49,7 @@ public class Counter{
      */
     public void onDispatch(){
         shouldLive = null;
-    }
+    } //Mario: método sin uso aparente
 
     /**
      * Called by the kaariboga base when this agent has to be destroyed.
@@ -57,5 +57,5 @@ public class Counter{
      */
     public void onDestroy(){
         shouldLive = null;
-    }
+    } //Mario: método sin uso aparente
 }

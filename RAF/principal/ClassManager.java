@@ -12,7 +12,7 @@ import java.util.Hashtable;
  * Es responsable de borrar las clases si no hay mas agentes
  * activos de esa clase en la agencia.
  */
-public class ClassManager
+public class ClassManager //Mario: clase sin uso aparente
 {
     /**
      * Clase auxiliar del ClassManager para encapsular las clases y los bytecodes

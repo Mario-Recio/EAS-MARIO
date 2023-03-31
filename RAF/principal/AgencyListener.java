@@ -6,7 +6,7 @@ package raf.principal;
  *
  * @author RMN
  */
-public interface AgencyListener extends java.util.EventListener{
+public interface AgencyListener extends java.util.EventListener{ ////Mario: interfaz sin uso aparente
 
     /**
      * Reaccion cuando un agente ra ha sido puesto en la agencia y

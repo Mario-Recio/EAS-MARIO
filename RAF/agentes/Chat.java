@@ -39,7 +39,7 @@ public class Chat extends Ra
     }
 
     
-    public void onCreate(){
+    public void onCreate(){ //Mario: método sin uso aparente
         i = 0;
         //s = ' ';
          s = "hola que tal";
@@ -55,7 +55,7 @@ public class Chat extends Ra
     /**
      * Shows a window.
      */
-    public void onArrival(){
+    public void onArrival(){ //Mario: método sin uso aparente
        //muestra la ventan de chat
       
         final TextComponent frame = new TextComponent();
